@@ -6,4 +6,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Made also for Full Stack -sovelluskehitys TO00BS65-3006 course in Laurea University of Applied Sciences
 
-Project - REACT and Next.js
+Project 3 - REACT and Next.js
